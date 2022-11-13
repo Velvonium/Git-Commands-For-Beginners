@@ -21,7 +21,7 @@
 6. `git commit -m "put a comment here"` this command will add a comment so that you later know what was the commit about.
 7. `git branch -M main` This command will set the branch to main.
 8. `git remote add origin https://yourgithubrepo.git` This will add your github repo link to remote and thus link it to your local repo.
-9. `git push -u origin main` This is final command to push all the files online inside the repo.
+9. `git push -u origin main` This is final command to push all the files online inside the repository.
 10. Once this is done, you just need to do 4th, 5th and 8th command in order everytime to update the online repository with any changes in local repo.
 <br>
 
