@@ -23,7 +23,7 @@
 
 <br>
 
-## 2️⃣ Q. How to collaborate on someone else's repo?
+## 2️⃣ How to collaborate on someone else's repo?
 1. Fork the repo that you wish to collaborate on.
 2. Clone this forked repo into your local computer using GitBash command `git clone forkedrepolink.git`
 3. Then connect your local repo to main repo using: `git remote add upstream mainrepolink.git`
