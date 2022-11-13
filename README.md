@@ -4,6 +4,7 @@
 <img alt="Number of Stars" src="https://img.shields.io/github/stars/Velvonium/Git-Commands-For-Beginners?color=yellow&label=Stars">
 </p>
 <h3 align="center">All the basic git commands that you must know as beginners and how to use them.</h3>
+<h3 align="center">⭐ Please Star This Repository ⭐</h3>
 <br>
 
 ------
