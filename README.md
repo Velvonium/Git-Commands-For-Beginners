@@ -35,6 +35,11 @@
 3. Then connect your local repo to main repo using: `git remote add upstream mainrepolink.git`
 4. `git fetch upstream` use this command and `git rebase upstream/main` this one to sync main repo and local repo.
 5. Make changes into local repo --> Push changes into forked repo --> Send Pull Request to main repo
+<br>
+
+--------------------
+
+<br>
 
 ## 🔥Join Our Discord For More Such Repositories!
-[Discord Link](https://discord.com/invite/99m7y3MSEa)
+[DISCORD LINK](https://discord.com/invite/99m7y3MSEa)
