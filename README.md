@@ -12,7 +12,7 @@
 3. Go to your local folder where the code is stored and right click, you will find an option "Open GitBash Here".
 4. `git init` use this command to initialize your repository.
 5. `git add .` use this command to add your files into git.
-6. `git commit -m "put a comment here"` this command will add a comment so that yo later know what was the commit about.
+6. `git commit -m "put a comment here"` this command will add a comment so that you later know what was the commit about.
 7. `git branch -M main` This command will set the branch to main.
 8. `git remote add origin https://yourgithubrepo.git` This will add your github repo link to remote and thus link it to your local repo.
 9. `git push -u origin main` This is final command to push all the files online inside the repo.
