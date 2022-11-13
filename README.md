@@ -5,6 +5,7 @@
 </p>
 <h3 align="center">All the basic git commands that you must know as beginners and how to use them.</h3>
 <h3 align="center">⭐ Please Star This Repository ⭐</h3>
+<h3 align="center">Join Our [Discord](https://discord.com/invite/99m7y3MSEa) Community</h3>
 <br>
 
 
