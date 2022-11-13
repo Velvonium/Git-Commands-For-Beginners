@@ -1,4 +1,8 @@
 <h1 align="center">🐱 Git Commands For Beginners 🪝</h1>
+<p align="center">
+<img alt="Number of Forks" src="https://img.shields.io/github/forks/Velvonium/Git-Commands-For-Beginners?color=green&label=Forks">
+<img alt="Number of Stars" src="https://img.shields.io/github/stars/Velvonium/Git-Commands-For-Beginners?color=yellow&label=Stars">
+</p>
 <h3 align="center">All the basic git commands that you must know as beginners and how to use them.</h3>
 <br>
 
