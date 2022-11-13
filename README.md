@@ -1,5 +1,6 @@
 <h1 align="center">🐱 Git Commands For Beginners 🪝</h1>
 <h3 align="center">All the basic git commands that you must know as beginners and how to use them.</h3>
+<h3 align="center">⭐ Please Star This Repository ⭐</h3>
 <br>
 
 ------
