@@ -5,7 +5,6 @@
 </p>
 <h3 align="center">All the basic git commands that you must know as beginners and how to use them.</h3>
 <h3 align="center">⭐ Please Star This Repository ⭐</h3>
-<h3 align="center">Join Our [Discord](https://discord.com/invite/99m7y3MSEa) Community</h3>
 <br>
 
 
@@ -36,3 +35,6 @@
 3. Then connect your local repo to main repo using: `git remote add upstream mainrepolink.git`
 4. `git fetch upstream` use this command and `git rebase upstream/main` this one to sync main repo and local repo.
 5. Make changes into local repo --> Push changes into forked repo --> Send Pull Request to main repo
+
+## 🔥Join Our Discord For More Such Repositories!
+[Discord Link](https://discord.com/invite/99m7y3MSEa)
